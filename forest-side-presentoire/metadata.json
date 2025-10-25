@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Forest Side Presentoire",
+  "description": "A dynamic weekly scheduling application that allows for easy management of names, locations, and time slots. Features an admin panel for configuration and uses local storage for data persistence.",
+  "requestFramePermissions": []
+}
